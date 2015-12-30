@@ -7,5 +7,6 @@ public class GitPratice {
         System.out.println("Hello Git World");
         System.out.println("Hello World");
         System.out.println("Hello my World");
+        System.out.println("This is master's World");
     }
 }
