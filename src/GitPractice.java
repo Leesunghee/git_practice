@@ -9,5 +9,6 @@ public class GitPractice {
         System.out.println("Hello my World");
         System.out.println("This is master's World");
         System.out.println("This is branch's World");
+        System.out.println("branch test");
     }
 }
