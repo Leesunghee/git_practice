@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # hello git
 
 ## git command summary
